@@ -1,0 +1,9 @@
+{
+  "name": "MindWell - AI Mental Wellness Assistant",
+  "description": "A smart mental wellness assistant to track your mood through journals, voice, and facial expressions, offering personalized AI-driven recommendations for a healthier mind.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
